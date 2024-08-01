@@ -35,10 +35,12 @@ This grid view report categorizes by 'Loan Status' to provide insights into 'Tot
 
 # Dashboard Overview
 
+![Dashboard](https://github.com/user-attachments/assets/d80be529-acdf-4171-8ae8-08629af4afe0)
+
 ## Visualization Tools
 
 1. **Tool Used**: Advanced Excel
-2. **Dataset Used**: 
+2. **Dataset Used**: https://github.com/thecodinganjali/Bank-Loan-Analysis/blob/mentorness/financial_loan.csv
 
 ## Monthly Trends by Issue Date (Line Chart)
 
