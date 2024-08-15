@@ -1,4 +1,7 @@
-# Bank Loan Report Dashboard: Analyzing Lending Performance with Excel
+# Bank Loan Report Dashboard💸💰
+
+![pngtree-vector-bank-icon-png-image_912135](https://github.com/user-attachments/assets/26eb4e93-a868-48c7-bc1f-53de8fab352e)
+
 
 
 ## Introduction
