@@ -1,4 +1,4 @@
-# Bank Loan Report Dashboard💸💰
+# Loan Performance Insights Dashboard💸💰
 
 <img src="https://github.com/user-attachments/assets/26eb4e93-a868-48c7-bc1f-53de8fab352e" alt="Vector Bank Icon" width="300" height="300">
 
